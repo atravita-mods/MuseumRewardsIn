@@ -1,6 +1,8 @@
 Museum Shop
 =================================
 
+**THIS REPOSITORY IS AN ARCHIVE: I've merged all my repos into a single one [here](https://github.com/atravita-mods/StardewMods)**
+
 ![museumShop](MuseumRewardsIn/docs/museumShop.jpg)
 
 This mod just adds collected rewards to a shop in the museum. By default, it's one tile to the right of Gunther, although it can be moved simply by relocating the tile property `Action: atravita.MuseumShop`. It also adds furniture rewards to the furniture catalogue.
